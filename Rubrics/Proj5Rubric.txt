@@ -1,0 +1,24 @@
+Project 5 Rubric
+
+----------------------------------
+
+45 points - write clustering code where:
+		  - 10 points - K-means
+		  - 15 points - Hierarchical from SciPy
+		  - 10 points - Hierarchical from scikit
+		  - 10 points - DBSCAN
+
+5  points - use elbow approach for K-means
+
+10 points - decide MinPts for DBSCAN
+
+20 points - test on datasets where:
+		  - 10 points - iris dataset
+		  - 10 points - steel plates dataset
+
+15 points - proper analysis where:
+		  - 5 points - accuracy shown in report using SSE
+		  - 5 points - runtime shown in report
+		  - 5 points - results for runtime and accuracy explained in report 
+
+5  points - readme file

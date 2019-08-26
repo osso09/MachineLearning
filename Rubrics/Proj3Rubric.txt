@@ -1,0 +1,26 @@
+Project 3 Rubric
+
+----------------------------------
+
+50 points - write classifiers where:
+		  - 10 points - perceptron
+		  - 5  points - SVM - Linear
+		  - 5  points - SVM - RBF Kernel
+		  - 10 points - decision tree
+		  - 10 points - KNN
+		  - 10 points - logistic regression
+
+15 points - test on datasets where:
+		  - 7.5 points - digits dataset
+		  - 7.5 points - READLISP dataset
+
+15 points - proper analysis where:
+		  - 5 points - accuracy shown in report
+		  - 5 points - runtime shown in report
+		  - 5 points - results for runtime and accuracy explained in report
+
+15 points - understanding DecisionTreeClassifier where:
+		  - 5  points - denote two strategies for pre/post pruning
+		  - 10 points - specifie file and lines of code for the strategies 
+
+5  points - readme file

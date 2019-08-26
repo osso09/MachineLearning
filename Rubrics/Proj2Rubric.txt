@@ -1,0 +1,42 @@
+
+---------------------------------------------------
+
+Stage 1:
+
+10 points - stage1 folder with team member names
+
+---------------------------------------------------
+
+Stage 2: 
+
+15 points - Motivations
+15 points - Problem descriptions
+
+---------------------------------------------------
+
+Stage 3:
+
+30 points - add proposed solution
+
+---------------------------------------------------
+
+Stage 4:
+
+30 points - have approx. half the code finished
+20 points - have preliminary results
+10 points - update report
+
+
+---------------------------------------------------
+
+Stage 5: 
+
+2   points - team.txt file
+8   points - readme file
+110 points - code base 
+50  points - 3-5 page report where points are distributed as:
+	         - 5  points - motivation
+	         - 5  points - problem definition
+	         - 10 points - solution explanation
+	         - 10 points - data description
+	         - 20 points - data result analysis

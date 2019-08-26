@@ -1,0 +1,55 @@
+CS 487/519 Project 1 Rubric
+
+------------------------------------------------------------------------------------------------------------
+
+20 pts - Perceptron
+	10 pts - written without libraries like sklearn
+	5 pts  - code runs with python 3.5.2
+	3 pts  - modularity
+	2 pts  - documentation
+
+20 pts - Adaline
+	10 pts - written without libraries like sklearn
+	5 pts  - code runs with python 3.5.2
+	3 pts  - modularity
+	2 pts  - documentation
+
+20 pts - SGD
+	10 pts - written without libraries like sklearn
+	5 pts  - code runs with python 3.5.2
+	3 pts  - modularity
+	2 pts  - documentation
+
+20 pts - One-vs-many (Graduate Students only)
+	10 pts - written without libraries like sklearn
+	5 pts  - code runs with python 3.5.2
+	3 pts  - modularity
+	2 pts  - documentation
+
+20 pts - Main
+	1 pt   - file named 'main.py'
+	2 pts  - accepts 2 arguments (perceptron/adaline/sgd and datafile path)
+	2 pts  - proper error checking
+	15 pts - calls calssifiers to train models, make predicitons, and report prediciton accuracies/errors
+
+18 pts - Report
+	2 pts  - report accuracies of predictions for each classifier
+	3 pts  - report the errors/costs in each iteration and polot figures for all iterations
+	5 pts  - test using two datasets: Iris and one more from the UCI repo (which must be larger than Iris)
+	5 pts  - properly analyze classifiers behavior
+	3 pts  - analyze other aspects that are not metnioned above and you think are important
+
+2 pts  - README
+
+
+Total = 100pts for undergraduates and 120 for graduates
+
+------------------------------------------------------------------------------------------------------------
+
+Possible deductions:
+-5 pts for not following file types and names specified in assignment
+-5 pts for having 'import sklearn' in any code file
+-5 pts for main files that do not work with a dataset you did not test (main should be dynamic)
+-10 pts (12 pts for graduate students) for each day a submission is late 
+
+------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+Project 4 Rubric
+
+----------------------------------
+
+60 points - write regressors where:
+		  - 7.5 points - Linear Regression 
+		  - 7.5 points - RANSAC
+		  - 7.5 points - Ridge
+		  - 7.5 points - Lasso
+		  - 10  points - normal equation
+		  - 20  points - Non-linear regression
+
+20 points - test on datasets where:
+		  - 10 points - housing dataset
+		  - 10 points - California dataset
+
+15 points - proper analysis where:
+		  - 5 points - accuracy shown in report using MSE
+		  - 5 points - runtime shown in report
+		  - 5 points - results for runtime and accuracy explained in report 
+
+5  points - readme file
+
+
+BONUS
+10 points - Design new approach that can improve exisiting regressor

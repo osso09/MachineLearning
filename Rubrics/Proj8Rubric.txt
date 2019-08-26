@@ -1,0 +1,19 @@
+Project 8 Rubric
+
+----------------------------------
+
+50 points - Write classification code where you use:
+		  - 10 points - Random Forest
+		  - 20 points - Bagging
+		  - 20 points - AdaBoost
+
+25 points - Run on two datasets:
+		  - 12.5 points - digits
+		  - 12.5 points - mammographic mass 
+
+20 points - proper analysis where:
+		  - 5 points - accuracy shown in report using different parameters
+		  - 5 points - runtime shown in report using different parameters
+		  - 10 points - results for runtime and accuracy explained in report 
+
+5  points - readme file

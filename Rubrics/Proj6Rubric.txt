@@ -1,0 +1,21 @@
+Project 6 Rubric
+
+----------------------------------
+
+36 points - write dimensionality reduction code where:
+		  - 12 points - PCA
+		  - 12 points - LDA
+		  - 12 points - Kernel PCA 
+
+22 points - compare techniques using linear regression
+
+22 points - test on datasets where:
+		  - 11 points - iris dataset
+		  - 11 points - steel plates dataset
+
+15 points - proper analysis where:
+		  - 5 points - accuracy shown in report using any metric
+		  - 5 points - runtime shown in report
+		  - 5 points - results for runtime and accuracy explained in report 
+
+5  points - readme file

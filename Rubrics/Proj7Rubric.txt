@@ -1,0 +1,23 @@
+Project 7 Rubric
+
+----------------------------------
+
+20 points - Design CNN architecture where:
+		  - 4 points - first convolutional layer
+		  - 4 points - first pooling layer
+		  - 4 points - second convolutional layer
+		  - 4 points - second pooling layer
+		  - 4 points - fully connected layer
+
+20 points - show shape of each output tensor with batchsize 100
+
+20 points - Implement CNN with TensorFlow (code copied from book is okay)
+
+20 points - Test using MNIST dataset
+
+15 points - proper analysis where:
+		  - 5 points - accuracy shown in report using different parameters
+		  - 5 points - runtime shown in report using different parameters
+		  - 5 points - results for runtime and accuracy explained in report 
+
+5  points - readme file
